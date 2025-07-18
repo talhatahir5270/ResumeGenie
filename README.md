@@ -46,4 +46,8 @@ by [@talhatahir5270](https://github.com/talhatahir5270)
 ├── requirements.txt     # Dependencies
 └── README.md            # Project documentation
 
+## 🔧 Installation Instructions
+
+git clone https://github.com/talhatahir5270/resume-genie.git
+cd resume-genie
 

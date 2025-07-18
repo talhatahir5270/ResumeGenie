@@ -61,5 +61,10 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+🔐 API Setup (Groq)
+Get your Groq API Key from Groq Console
+
+Create a secrets.toml file (locally or in Streamlit Cloud)
+
 
 

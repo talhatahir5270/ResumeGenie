@@ -46,8 +46,20 @@ by [@talhatahir5270](https://github.com/talhatahir5270)
 ├── requirements.txt     # Dependencies
 └── README.md            # Project documentation
 
-## 🔧 Installation Instructions
+### 🔧 Installation Instructions
 
+  **Clone Repository**
 - git clone https://github.com/talhatahir5270/resume-genie.git
-= cd resume-genie
+
+ cd resume-genie
+
+**Install required libraries**
+
+pip install -r requirements.txt
+
+**Run the app locally**
+
+streamlit run app.py
+
+
 

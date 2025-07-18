@@ -41,12 +41,9 @@ by [@talhatahir5270](https://github.com/talhatahir5270)
 
 ## 📂 Folder Structure
 
-```plaintext
 📁 Resume-Genie/
 ├── app.py               # Main Streamlit app
 ├── requirements.txt     # Dependencies
 └── README.md            # Project documentation
 
-
-## Installation 
 

@@ -46,3 +46,7 @@ by [@talhatahir5270](https://github.com/talhatahir5270)
 ├── app.py               # Main Streamlit app
 ├── requirements.txt     # Dependencies
 └── README.md            # Project documentation
+
+
+## Installation 
+

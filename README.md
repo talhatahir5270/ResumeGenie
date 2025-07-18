@@ -1,6 +1,9 @@
 # 📄 Resume Genie – AI Resume Parser + Smart Resume Chatbot  
 by [@talhatahir5270](https://github.com/talhatahir5270)
 
+# Live App
+(https://resumegenie-by-talha.streamlit.app/)
+
 **Resume Genie** is an AI-powered Streamlit web application that intelligently parses your resume and allows you to interact with a smart chatbot. It offers resume improvement suggestions, skill summaries, and resume-specific Q&A using LLaMA 3 via Groq’s blazing-fast API.
 
 ---

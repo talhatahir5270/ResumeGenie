@@ -48,6 +48,6 @@ by [@talhatahir5270](https://github.com/talhatahir5270)
 
 ## 🔧 Installation Instructions
 
-git clone https://github.com/talhatahir5270/resume-genie.git
-cd resume-genie
+- git clone https://github.com/talhatahir5270/resume-genie.git
+= cd resume-genie
 
